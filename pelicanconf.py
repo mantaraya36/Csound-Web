@@ -16,6 +16,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 THEME = 'themes/fresh'
+
+MENUITEMS = [('API docs', 'http://csound.sourceforge.net/doc/html/index.html)] 
+
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('Python.org', 'http://python.org/'),
