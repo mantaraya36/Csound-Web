@@ -17,7 +17,7 @@ TRANSLATION_FEED_ATOM = None
 
 THEME = 'themes/fresh'
 
-MENUITEMS = [('API docs', 'http://csound.sourceforge.net/doc/html/index.html)] 
+MENUITEMS = [('API docs', 'http://csound.sourceforge.net/doc/html/index.html')] 
 
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
