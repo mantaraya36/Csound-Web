@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Joachim Heintz'
+AUTHOR = u'Joachim Heintz and others'
 SITENAME = u'Csound@Sourceforge'
 SITEURL = ''
 
@@ -14,22 +14,19 @@ DEFAULT_LANG = u'en'
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
+#DISPLAY_PAGES_ON_MENU = False
 
 THEME = 'themes/fresh'
 
 MENUITEMS = [('API docs', 'http://csound.sourceforge.net/doc/html/index.html')] 
 
-# Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+LINKS =  (('Download', 'http://sourceforge.net/projects/csound/files/csound6/'),
+          ('Community', 'http://csounds.com/'),
+          ('Journal', 'http://csounds.com/csound-journal/'),
+          ('Manual', 'http://csounds.com/manual/html/index.html'),
+          ('How To', 'http://en.flossmanuals.net/csound/index'))
 
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

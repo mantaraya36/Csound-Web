@@ -1,0 +1,11 @@
+# wie es geht
+
+
+# pelican aktivieren
+cd /home/jh/virtualenvs/pelican
+. bin/activate
+
+# arbeiten dann
+make publish
+
+
