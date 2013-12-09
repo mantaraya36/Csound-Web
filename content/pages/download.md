@@ -18,6 +18,6 @@ You will find the current version of Csound in [http://sourceforge.net/projects/
 - For using Csound inside **Max**, you will find the csound~ external as .zip or .pkg.
 - The Csound **Manual** comes in different formats in the "manual" folder. Choose the one you need. You should also find an up-to-date version online at www.csounds.com/manual.
 
-Some more detailed download instructions can be found in the [Csound FLOSS Manual](http://en.flossmanuals.net/a-make-csound-run.html).
+Some more detailed download instructions can be found in the [Csound FLOSS Manual](http://en.flossmanuals.net/a-make-csound-run).
 
 Building Csound from source or from the git develop branch is not very difficult on Linux, and can also be done on Mac and Windows. How-to descriptions are collected in the [Csound Wiki](http://sourceforge.net/p/csound/wiki/Home/).

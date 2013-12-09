@@ -8,4 +8,6 @@ cd /home/jh/virtualenvs/pelican
 # arbeiten dann
 make publish
 
+# den content ordner zu csound.github.io rüberkopieren
 
+# von dort aus git add --all, commit und push
