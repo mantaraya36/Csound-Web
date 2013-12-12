@@ -1,10 +1,10 @@
 Title: Download
 <!--- Date: 2010-12-03 10:20
-Category: Python
-Tags: pelican, publishing
-Slug: my-super-post
+#Category: Python
+#Tags: pelican, publishing
+#Slug: my-super-post
 Author: Joachim Heintz
-Summary: Short version for index and feeds
+#Summary: Short version for index and feeds
 -->
 
 

@@ -21,6 +21,7 @@ HIDE_CATEGORIES_FROM_MENU = True
 THEME = 'themes/fresh'
 
 LINKS =  (('Download', 'http://sourceforge.net/projects/csound/files/csound6/'),
+          ('Wiki', 'http://sourceforge.net/p/csound/wiki/Home/'),
           ('csounds.com', 'http://csounds.com/'),
           ('Journal', 'http://csounds.com/csound-journal/'),
           ('Manual', 'http://csounds.com/manual/html/index.html'),
@@ -28,7 +29,7 @@ LINKS =  (('Download', 'http://sourceforge.net/projects/csound/files/csound6/'),
           ('CsoundQt', 'http://sourceforge.net/projects/qutecsound/'),
           ('Blue', 'http://sourceforge.net/projects/bluemusic/'),
           ('Cabbage', 'http://www.thecabbagefoundation.org'),
-          ('McCurdy', 'http://iainmccurdy.org/csound.html')
+          ('McCurdy Collection', 'http://iainmccurdy.org/csound.html')
           )
 
 DEFAULT_PAGINATION = False
