@@ -26,7 +26,7 @@ LINKS =  (('Download', 'http://sourceforge.net/projects/csound/files/csound6/'),
           ('Journal', 'http://csounds.com/csound-journal/'),
           ('Manual', 'http://csounds.com/manual/html/index.html'),
           ('Textbook', 'http://en.flossmanuals.net/csound/index'), 
-          ('CsoundQt', 'http://sourceforge.net/projects/qutecsound/'),
+          ('CsoundQt', 'http://qutecsound.sourceforge.net/'),
           ('Blue', 'http://sourceforge.net/projects/bluemusic/'),
           ('Cabbage', 'http://www.thecabbagefoundation.org'),
           ('McCurdy Collection', 'http://iainmccurdy.org/csound.html')
