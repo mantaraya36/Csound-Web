@@ -20,8 +20,8 @@ echo "... done"
 echo "pushing to github ..."
 cd ../csound.github.io
 git add --all
-echo "Please enter git commit message as a string:"
-read gitmess
-git commit -m "changed description for winxound" #$gitmess
+#echo "Please enter git commit message as a string:"
+#read gitmess
+git commit #$gitmess
 git push
 echo "... done"
